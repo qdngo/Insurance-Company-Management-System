@@ -1,0 +1,2 @@
+CP,Tom Nguyen,300001,Toyota,SED,2021,10000.0,10,10,2,2025,19,1
+TPP,Tom Nguyen,300002,Mercedes,LUX,2022,50000.0,10,15,12,2024,Value Customer

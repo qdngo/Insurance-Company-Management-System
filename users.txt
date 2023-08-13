@@ -1,0 +1,1 @@
+USER,Cheryl,152,1,Hindmarsh Dr,North Gong,Wollongong,1,2,TPP,Cheryl Le,300004,Mercedes,etc,2022,70000.0,10,1,1,2025,Bad Customer,CP,Cheryl Le,300003,Toyota,SUV,2023,60000.0,10,14,2,2025,20,3,
